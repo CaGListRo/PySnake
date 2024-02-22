@@ -11,8 +11,8 @@ Controls:
 Use the arrow keys (up, down, left, right) to direct the movement of the snake.
 Gameplay:
 The snake will grow longer as it consumes food pellets.
-Avoid collisions with the snake's own body and the walls.
-The game ends when the snake collides with itself or a wall.
+Avoid collisions with the snake's own body.
+The game ends when the snake collides with itself.
 Scoring:
 The score increases as the snake consumes food pellets.
 Aim for the highest score and challenge yourself to beat it!
